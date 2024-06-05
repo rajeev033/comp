@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title></title>
+<style>
+
+
+
+
+
+
+</style>
+</head>
+<body>
+<marquee direction="right"><h1 class="heading"></h1></marquee>
+
+<h1 class="heading"></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+<p><b></b><br></p>
+
+
+<hr>
+
+<br>
+
+<blockquote></blockquote>
+
+<pre></pre>
+
+<p><b></b><u></u><sub></sub><sup></sup><em></em></p>
+
+<p><code></code><del></del><kbd></kbd></p>
+
+<h2></h2>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+<h2></h2>
+<ol type="A">
+<li></li>
+<li></li>
+<li></li>
+</ol>
+</body>
+</html>

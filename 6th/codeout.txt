@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+
+  // This is a single-line comment explaining the purpose of the program
+  printf("This program calculates the area of a rectangle.\n");
+
+  /* This is a multi-line comment
+     describing the variables used */
+  int length = 5;
+  int width = 3;
+
+  // Calculate the area
+  int area = length * width;
+
+  // Print the area with a single-line comment
+  printf("The area of the rectangle is %d square units.\n", area);
+
+  return 0;
+}
